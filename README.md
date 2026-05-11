@@ -1,4 +1,4 @@
-**# Financial PDF Extractor
+# Financial PDF Extractor
 
 A Next.js 14 app that reads financial PDFs in the browser (PDF.js), sends extracted text to the OpenAI API for structured JSON, presents a human-review grid, and exports reviewed rows to **CSV** or **Excel (.xlsx)**.
 
